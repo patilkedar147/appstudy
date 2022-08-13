@@ -1,0 +1,97 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.head {
+    /* background-color: wheat; */
+    color: black;
+    height: 52px;
+    align-content: center;
+    font-size: 1.6rem;
+    align-items: center;
+
+}
+
+.head h1 {
+    margin-left: 514px;
+    margin-top: 9px;
+
+}
+
+span {
+    color: tomato;
+}
+
+.container {
+    width: 80vw;
+    height: 30vh;
+    /* background-color: rgb(234, 202, 202); */
+    margin: 49px auto;
+
+}
+
+.container label {
+    margin: 0px auto;
+    margin-left: 47px;
+    display: flex;
+    flex-direction: row;
+
+
+
+}
+
+.container input {
+    width: 70vw;
+    height: 30px;
+    margin-left: 47px;
+    border-radius: 5px;
+    border-bottom: none;
+
+
+
+
+}
+
+.btn {
+    width: 50vw;
+    background-color: rgb(225, 163, 198);
+    color: black;
+    height: 30px;
+    cursor: pointer;
+    margin: 20px auto;
+    font-size: 1.5rem;
+    margin-left: 300px;
+    border-radius: 5px;
+    box-shadow: yellowgreen 4px 1px 10px;
+}
+
+.btn:hover {
+    width: 50vw;
+    background-color: rgb(131, 105, 133);
+    color: rgb(8, 7, 7);
+    height: 30px;
+    cursor: pointer;
+    margin: 20px auto;
+    font-size: 1.5rem;
+    margin-left: 300px;
+    border-radius: 5px;
+
+
+
+}
+
+.table {
+    /* background-color: bisque; */
+    width: 80vw;
+    height: 30px;
+    margin: 12px auto;
+
+
+
+}
+
+th {
+    background-color: rgb(245, 179, 243);
+}
